@@ -1,6 +1,6 @@
 
 # Git使用说明
-===================
+
 
 #### <i class="icon-refresh"></i> 1、git的初始设置
 
@@ -51,3 +51,8 @@
 > git remote add origin git@github.com:你的github用户名/你的github项目名.git
 
 > git push origin master
+
+
+#### <i class="icon-refresh"></i> 8、其他常用命令
+> 删除本地git文件夹 rm -rf
+
